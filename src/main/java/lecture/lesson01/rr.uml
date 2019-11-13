@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="91.0" y="123.0">animals.Cat</node>
+    <node x="44.98999999999999" y="0.0">animals.Animal</node>
+    <node x="67.025" y="202.0">main.Main</node>
+    <node x="0.0" y="123.0">animals.Dog</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="animals.Cat" target="animals.Animal">
+      <point x="16.25" y="-14.5" />
+      <point x="139.75" y="103.0" />
+      <point x="126.19" y="103.0" />
+      <point x="23.200000000000017" y="36.5" />
+    </edge>
+    <edge source="main.Main" target="animals.Dog">
+      <point x="-18.5" y="-14.5" />
+      <point x="85.525" y="177.0" />
+      <point x="35.5" y="177.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="animals.Dog" target="animals.Animal">
+      <point x="17.75" y="-14.5" />
+      <point x="53.25" y="103.0" />
+      <point x="79.78999999999999" y="103.0" />
+      <point x="-23.200000000000003" y="36.5" />
+    </edge>
+    <edge source="main.Main" target="animals.Animal">
+      <point x="18.5" y="-14.5" />
+      <point x="122.525" y="177.0" />
+      <point x="166.5" y="177.0" />
+      <point x="166.5" y="103.0" />
+      <point x="149.39000000000001" y="103.0" />
+      <point x="46.40000000000002" y="36.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="0.0" />
+  <SelectedNodes>
+    <node>animals.Cat</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
