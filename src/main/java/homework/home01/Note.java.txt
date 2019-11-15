@@ -1,0 +1,9 @@
+package homework.home01;
+
+
+public enum Note {
+
+    
+    DO("do"), RE("re"), MI("mi"), FA("fa"), SOL("sol"), LA("la"), SI("si")
+}
+
